@@ -1,5 +1,4 @@
 # LAYSA
-[ALBANO.html](https://github.com/user-attachments/files/22247213/ALBANO.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
